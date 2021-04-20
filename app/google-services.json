@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "625814870809",
+    "firebase_url": "https://jektest-bf663-default-rtdb.firebaseio.com",
+    "project_id": "jektest-bf663",
+    "storage_bucket": "jektest-bf663.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625814870809:android:4f599a27d06996c9128388",
+        "android_client_info": {
+          "package_name": "com.example.apitest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625814870809-qnsn6vb925dq6u9g3vrj8krrsk8tcd6m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpxH5n2zfbsj8rZSalMWf8iKGw4EMgdbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625814870809-qnsn6vb925dq6u9g3vrj8krrsk8tcd6m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
